@@ -1,12 +1,10 @@
 # DormancyTracker
-The purpose of this product is to track trailer dormancy for both company and 3rd party assets company wide. The product was deployed network wide and is still the default standard for warehouse/manufacturing and transportation.
+The purpose of this product is to track trailer dormancy for both company and 3rd party assets. 
 
 # Phase 1
 Data is dumped and all calculations are auto updated through entire report. Report takes 5 mins to run and is distributed twice daily to entire transportation network.  
 
-
-![image](https://user-images.githubusercontent.com/44706605/153674714-45d47a05-fb60-42b0-a171-edd333d24335.png)
-
+![image](https://user-images.githubusercontent.com/44706605/189499915-58cefde7-79f8-40e4-bb19-4c3f663205d7.png)
 
 
 # Phase 2
