@@ -22,7 +22,7 @@ Third party assests are tracked as well.
 # Phase 4
 Email is sentout twice daily to entire wharehouse and transportation network with report attached.  
 
-![image](https://user-images.githubusercontent.com/44706605/153674752-50089224-4f5c-467e-bcda-ed18d43a4f46.png)
+![image](https://user-images.githubusercontent.com/44706605/189499760-8318311c-fba6-48fd-a9a8-fc79ac093a4a.png)
 
 
 # Phase 4
