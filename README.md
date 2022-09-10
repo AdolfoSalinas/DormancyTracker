@@ -26,5 +26,5 @@ Email is sentout twice daily to entire wharehouse and transportation network wit
 
 
 # Phase 4
-How to instructions are atached to the email through a hyperlink  
+How to instructions are attached to the email through a hyperlink  
 ![image](https://user-images.githubusercontent.com/44706605/189499855-fb7b8eb2-4bc9-4bac-8f49-5a7c79bfcbf7.png)
